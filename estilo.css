@@ -11,13 +11,15 @@
 .sectionnos{
     display: flex;
     justify-content: center;
-    align-items:centergit ;
+    align-items:center;
     height: 500px;
     width: 100%;
     background-color: black;
 }
 
-.contenedortex{
-    
-
+.parrafomain{
+    font-size: 20px;
+}
+.btn{
+    color: rgba(240, 248, 255, 0.705);
 }
