@@ -7,3 +7,17 @@
 .navbar{
     background-color: rgb(160, 62, 190);
 }
+
+.sectionnos{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 500px;
+    width: 100%;
+    background-color: black;
+}
+
+.contenedortex{
+    
+
+}
